@@ -43,7 +43,7 @@
       },
       "guide": {
         "text": "The \"Chencuocuo Drainage\" at our school gate is our safety hero! By exploring this local flood control system, we embody the spirit of SDG 11 (Sustainable Cities and Communities). We learn how infrastructure quickly drains water during severe weather and extreme storms, and how following disaster evacuation plans builds a safer, climate-resilient community.",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           11
         ],
@@ -80,7 +80,7 @@
       },
       "guide": {
         "text": "Welcome to the embrace of our decades-old banyan tree! As a master of carbon sequestration, this guardian tree helps us explore SDG 13 (Climate Action). We learn how trees absorb carbon dioxide to mitigate global warming, inspiring us to practice a carbon-neutral and eco-friendly lifestyle.",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           13
         ],
@@ -117,7 +117,7 @@
       },
       "guide": {
         "text": "Our vast playground is more than a sports field; it is a life-saving disaster drill site and a shared community space! Embodying SDG 11 (Sustainable Cities and Communities), we practice earthquake evacuation here, using it as an \"emergency assembly point.\" By opening the field to the community for resource sharing, we make Taiping Elementary a safe, inclusive, and sustainable hub.",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           11
         ],
@@ -154,7 +154,7 @@
       },
       "guide": {
         "text": "Show off your skills on the court! Regular exercise is the best way to practice SDG 3 (Good Health and Well-being). Sweating it out on the basketball court boosts cardiorespiratory endurance and physical fitness. Moreover, exercise releases dopamine and endorphins in the brain to make us feel happy! Let's build strong bodies and positive minds through team sports to embrace healthy lives.",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           3
         ],
@@ -191,7 +191,7 @@
       },
       "guide": {
         "text": "A toilet full of art! This mosaic mural, co-created by teachers and students, perfectly blends art with SDG 6 Clean Water and Sanitation. We learn to value water and stay hygienic while beautifying our school environment .",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           6
         ],
@@ -228,7 +228,7 @@
       },
       "guide": {
         "text": "Taiping young farmers, let’s get to work! In our school garden, we plant and harvest to experience the joy of \"farm-to-table.\" Guided by SDG 2 (Zero Hunger), we learn about food security and the importance of valuing our food. By choosing \"locally produced seasonal food,\" we effectively reduce carbon footprints and transport costs, becoming eco-conscious, responsible eaters!",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           2
         ],
@@ -265,7 +265,7 @@
       },
       "guide": {
         "text": "The greenhouse is a plant paradise! Here, we observe rich flora to practice SDG 15 (Life on Land), greening our campus to create friendly habitats and protect biodiversity. Meanwhile, we turn lunch left overs into \"food waste compost\"—transforming waste into organic fertilizer for resource recycling. This fulfills SDG 12 (Responsible Consumption and Production) by turning trash into treasure!####",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           15,
           12
@@ -303,7 +303,7 @@
       },
       "guide": {
         "text": "Hello world! Welcome to our International English Classroom! Guided by our dedicated teachers, we blend bilingual learning with SDGs to provide a fun, SDG 4 (Quality Education) environment. Furthermore, our school offers free after-school care and English classes to support students in need, embodying SDG 10 (Reduced Inequalities). This ensures equal learning opportunities for every child, helping them become inspiring global citizens!",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           4,
           10
@@ -341,7 +341,7 @@
       },
       "guide": {
         "text": "The Health Center cares for every student's well-being! Through our \"LOHAS Health Bulletin,\" we promote handwashing and disease prevention (such as enterovirus and flu). Our school nurse also guides us on eye care and proper teeth brushing after meals. Here, we practice SDG 3 (Good Health and Well-being) by learning to care for ourselves and others, making our campus healthy and vibrant!",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           3
         ],
@@ -378,7 +378,7 @@
       },
       "guide": {
         "text": "Put on your sneakers and let’s go! The playground is everyone's favorite recess spot, flanked by a health walkway surrounded by banyan trees, Formosan gums, and blackboard trees. Exercising here practices SDG 3 (Good Health and Well-being), building daily habits that fill us with vibrant, sustainable energy!",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           3
         ],
@@ -415,7 +415,7 @@
       },
       "guide": {
         "text": "Step outside to Dongtian Temple, the spiritual heart of our community! Its main hall honors the \"Five Holy Benefactors,\" while the side hall enshrines \"Wenchang Emperor,\" who governs wisdom and academic success. Exploring its history practices SDG 11 (Sustainable Cities and Communities) by protecting local cultural heritage and fostering strong ties between our school and town!",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [],
         "audio": {
           "en": "audio/scene-11-en.m4a",
@@ -450,7 +450,7 @@
       },
       "guide": {
         "text": "The park is a natural extension of our learning! At Taiping Park, we observe lush trees and wildlife habitats to practice SDG 15 (Life on Land). Meanwhile, exercising with the park's fitness equipment and walkways promotes SDG 3 (Good Health and Well-being), creating a sustainable and health-conscious community for everyone!",
-        "avatar": "images/guide-avatar.svg",
+        "avatar": "images/guide-avatar.jpg",
         "sdgs": [
           15,
           3
@@ -1269,5 +1269,6 @@
         "points": 1
       }
     ]
-  }
+  },
+  "logo": "images/school-logo.png"
 }
