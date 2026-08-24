@@ -26,6 +26,106 @@
   "variables": [],
   "scenes": [
     {
+      "id": "scene-campus",
+      "name": "Taiping Elementary School",
+      "projection": "equirect",
+      "source": {
+        "kind": "splat",
+        "src": "models/school-3d.ply",
+        "up": [
+          0,
+          -1,
+          0
+        ],
+        "target": [
+          0,
+          0,
+          0
+        ],
+        "view": {
+          "yaw": -1.6604447523936154,
+          "pitch": -0.3629938448171083,
+          "distance": 15.54,
+          "fov": 45
+        },
+        "limits": {
+          "distance": [
+            12,
+            90
+          ],
+          "pitch": [
+            -1.5,
+            -0.25
+          ]
+        },
+        "mode": "flyover",
+        "reveal": {
+          "mode": "none",
+          "dotsMs": 10000,
+          "holdMs": 0,
+          "coatMs": 10000
+        }
+      },
+      "initialView": {
+        "yaw": 0,
+        "pitch": -1.15
+      },
+      "layers": [
+        {
+          "id": "layer-ea44ca70",
+          "name": "Hotspots",
+          "visible": true,
+          "locked": false,
+          "hotspots": [
+            {
+              "id": "hs-7ca6eacd",
+              "name": "Enter the school",
+              "geometry": {
+                "kind": "point3d",
+                "x": 0,
+                "y": 0,
+                "z": 0
+              },
+              "form": "icon",
+              "style": {
+                "builtinIcon": "arrow",
+                "iconColor": "#ffffff",
+                "background": "#3b82f6",
+                "radius": 999,
+                "text": "",
+                "textColor": "#ffffff",
+                "fontSize": 13,
+                "size": 40,
+                "padding": 9,
+                "effect": "none",
+                "effectColor": "#3b82f6",
+                "effectOpacity": 0.7,
+                "effectSpeed": 1.6,
+                "effectSize": 44,
+                "effectStroke": 2,
+                "fill": "#3b82f6",
+                "fillOpacity": 0.28,
+                "stroke": "#3b82f6",
+                "strokeWidth": 2,
+                "color": "#ffffff"
+              },
+              "on": [
+                {
+                  "event": "click",
+                  "actions": [
+                    {
+                      "type": "goto",
+                      "targetSceneId": "scene-3e82a2df"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "scene-3e82a2df",
       "name": "School Gate",
       "projection": "equirect",
@@ -483,7 +583,7 @@
     "audio": {
       "muted": false
     },
-    "startSceneId": "scene-3e82a2df"
+    "startSceneId": "scene-campus"
   },
   "i18n": {
     "zh-TW": {
