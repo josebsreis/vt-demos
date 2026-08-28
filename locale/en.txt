@@ -170,12 +170,12 @@ audiores_1E6DAEDB_3A57_8963_41BD_E005F9150672.url = media/audio_2DC16420_3A2F_98
 ### Floorplan
 
 ### Image
-imlevel_6DF16586_4407_4369_41B2_06E0681FB224.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_0.avif
-imlevel_6DF14586_4407_4369_41C6_56BCBECB81C4.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_1.avif
-imlevel_6DF13586_4407_4369_4168_CC36F7B8273D.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_2.avif
-imlevel_6DF06597_4407_4297_41CA_29369BB27E14.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_0.avif
-imlevel_6DF05597_4407_4297_41A8_BDBCB2AEFEBD.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_1.avif
-imlevel_6DF03598_4407_4299_41C5_6E2087AE39FB.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_2.avif
+imlevel_5C50CC8B_47E8_67A8_4184_F1AFE8C271B2.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_0.avif
+imlevel_5C50EC8B_47E8_67A8_41CA_86BE4E9E5627.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_1.avif
+imlevel_5C50FC8B_47E8_67A8_41BF_57ADD67E89FE.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_2.avif
+imlevel_5C50CD7E_47E8_6168_41C4_D779762ABBE9.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_0.avif
+imlevel_5C50FD7E_47E8_6168_41CD_D7D41A873BD9.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_1.avif
+imlevel_5C508D7E_47E8_6168_41AE_A1F69E9CBF91.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_2.avif
 
 ### Subtitle
 panorama_225AB9A2_3861_2C61_41A8_41B6FA1B6AD0.subtitle = [a10]
@@ -219,7 +219,9 @@ Button_D416779B_C69B_6B24_41DC_BBA5BE82868D.label = Experience campus culture
 Button_D416D79A_C69B_6B24_41E6_F6A0CB943A7C.label = Explore in 360º and VR
 Button_DEA747A1_C69C_EB64_41C0_256A238E3E95.label = Navigation
 Button_DEA7D7A1_C69C_EB64_41D7_6B8B6EB536F2.label = Restart
+Button_5E81701C_47E9_FEA8_41C2_45065B2753C5.label = Sound
 Button_0516E319_3E51_677F_41C2_CBF4336D7A7E.label = Sound
+Button_5D566FC4_47E8_E198_41CE_2105F7F13A13.label = Sound
 
 ### Image
 Image_0488E9E1_3E51_62CF_41A0_F3CB65254402.url = skin/Image_0488E9E1_3E51_62CF_41A0_F3CB65254402_en.png
@@ -228,7 +230,12 @@ Image_0E829E5E_438C_899D_41C0_3CE2F5F6A2A2.url = skin/Image_0E829E5E_438C_899D_4
 Image_0F5FCA2D_438D_89BF_41B2_4BED7C9BBAAE.url = skin/Image_0F5FCA2D_438D_89BF_41B2_4BED7C9BBAAE_en.png
 Image_151DB4F9_3A5C_792F_41A7_8AC9EDA3297E.url = skin/Image_151DB4F9_3A5C_792F_41A7_8AC9EDA3297E_en.png
 Image_4507565E_355D_C44D_41C0_BADBCC929065.url = skin/Image_4507565E_355D_C44D_41C0_BADBCC929065_en.png
+Image_5807AFB9_454F_8D97_41AA_956275D62404.url = skin/Image_5807AFB9_454F_8D97_41AA_956275D62404_en.png
+Image_580B4B0A_4549_B675_41CB_6BFF550A2656.url = skin/Image_580B4B0A_4549_B675_41CB_6BFF550A2656_en.png
+Image_58147F29_454B_8EB7_41C3_FF8EF22F36B4.url = skin/Image_58147F29_454B_8EB7_41C3_FF8EF22F36B4_en.png
+Image_58569520_4548_92B5_4198_2FFCF038B17D.url = skin/Image_58569520_4548_92B5_4198_2FFCF038B17D_en.png
 Image_586EBB3E_4377_432A_41A4_B16CCE4D050E.url = skin/Image_586EBB3E_4377_432A_41A4_B16CCE4D050E_en.png
+Image_5899A898_4548_9395_41C2_C7F43597139A.url = skin/Image_5899A898_4548_9395_41C2_C7F43597139A_en.png
 Image_5C061779_4372_C336_41CE_07C47A64C3E9.url = skin/Image_5C061779_4372_C336_41CE_07C47A64C3E9_en.png
 Image_5C5014D6_4373_C57A_41C5_3CEDE0D7D648.url = skin/Image_5C5014D6_4373_C57A_41C5_3CEDE0D7D648_en.png
 Image_5C5234D8_4373_C576_41B4_D63FF695D268.url = skin/Image_5C5234D8_4373_C576_41B4_D63FF695D268_en.png
@@ -244,6 +251,8 @@ Image_5CF9E77A_4372_C32A_41CA_4C5A13A5AB1B.url = skin/Image_5CF9E77A_4372_C32A_4
 Image_5CFB60C6_4375_3D5A_41B1_39C0DA5DACE7.url = skin/Image_5CFB60C6_4375_3D5A_41B1_39C0DA5DACE7_en.png
 Image_5CFB677B_4372_C329_41C2_990DC2468E1A.url = skin/Image_5CFB677B_4372_C329_41C2_990DC2468E1A_en.png
 Image_5D29DDD1_4373_4776_41B5_63CCE33A3FC6.url = skin/Image_5D29DDD1_4373_4776_41B5_63CCE33A3FC6_en.png
+Image_5D565FC3_47E8_E198_41CC_057AC42F7FF0.url = skin/Image_5D565FC3_47E8_E198_41CC_057AC42F7FF0_en.png
+Image_5D575FC2_47E8_E198_416E_E1EC66C630CC.url = skin/Image_5D575FC2_47E8_E198_416E_E1EC66C630CC_en.png
 Image_5DB2087A_4373_CD2A_419F_87498DF135F1.url = skin/Image_5DB2087A_4373_CD2A_419F_87498DF135F1_en.png
 Image_5DBD8878_4373_CD36_41CE_1D40725A1637.url = skin/Image_5DBD8878_4373_CD36_41CE_1D40725A1637_en.png
 Image_5DBE4879_4373_CD36_41A2_6EBA03897201.url = skin/Image_5DBE4879_4373_CD36_41A2_6EBA03897201_en.png
@@ -259,6 +268,8 @@ Image_5DDE3402_4373_44DA_41C1_CEC7F984D6D1.url = skin/Image_5DDE3402_4373_44DA_4
 Image_5DF19184_4373_5FDE_41C7_820632BDC78E.url = skin/Image_5DF19184_4373_5FDE_41C7_820632BDC78E_en.png
 Image_5DF70184_4373_5FDE_41A4_3EB2082B5CA9.url = skin/Image_5DF70184_4373_5FDE_41A4_3EB2082B5CA9_en.png
 Image_5DFCC183_4373_5FDA_41BD_E33BFA036FD1.url = skin/Image_5DFCC183_4373_5FDA_41BD_E33BFA036FD1_en.png
+Image_5E812019_47E9_FEA8_4198_18F713A272B0.url = skin/Image_5E812019_47E9_FEA8_4198_18F713A272B0_en.png
+Image_5E8D4004_47E9_FE98_41CC_F9AA24F732DF.url = skin/Image_5E8D4004_47E9_FE98_41CC_F9AA24F732DF_en.png
 Image_637A70CF_4372_FD6A_419A_A9C037028DFB.url = skin/Image_637A70CF_4372_FD6A_419A_A9C037028DFB_en.png
 Image_637E20D0_4372_FD76_41CD_E81F5C4B197B.url = skin/Image_637E20D0_4372_FD76_41CD_E81F5C4B197B_en.png
 Image_637FD0D2_4372_FD7A_41C4_B07189BCC511.url = skin/Image_637FD0D2_4372_FD7A_41C4_B07189BCC511_en.png
@@ -292,24 +303,25 @@ Label_5DF0B185_4373_5FDE_41CE_27F84259650A.text = Basketball Court
 Label_967DE2AB_CFE6_1B2C_41BE_A42879556038.text = Click and drag to look around
 Label_05002E66_3AD4_8925_41C1_A8E72388964B.text = Continue to Next Area
 Label_5CFA777C_4372_C32E_41C0_249B33CD26D8.text = Dongtian Temple
-Label_70A1E190_4285_7B65_4155_5FA515104D70.text = EN
-Label_2A799082_3DD7_214D_41B6_9EE5034FFB60.text = EN
-Label_70A0C191_4285_7B67_41A1_AA98147435A4.text = EN
 Label_2A794081_3DD7_214F_418C_72E4F0E93DA6.text = EN
+Label_70A0C191_4285_7B67_41A1_AA98147435A4.text = EN
+Label_2A799082_3DD7_214D_41B6_9EE5034FFB60.text = EN
+Label_70A1E190_4285_7B65_4155_5FA515104D70.text = EN
 Label_5C5134D8_4373_C576_41B1_619A3C7E93C7.text = English International Classroom
 Label_D415C79B_C69B_6B24_41E1_5032B2DD263B.text = Explore Campus
 Label_637EC0D2_4372_FD7A_41CF_D72A41471665.text = Health Center
+Label_5D2AAA7C_47E8_2368_419B_0AA9CFCFEFD6.text = Label
 Label_5D2DBDD2_4373_477A_41C1_1D097984CB43.text = Mosaic Mural
 Label_5C9A8EE6_4372_C55A_41C4_6CFB8021B8A8.text = Playground & Health Trail
 Label_1202248F_4384_F97B_4199_FAC6D12EF06A.text = SDG 11
-Label_5CF530C7_4375_3D5A_41D0_8C4A7E241059.text = SDG 11
 Label_5CF9877D_4372_C32E_41C7_216AFCCC1B0E.text = SDG 11
 Label_5DDDA403_4373_44DA_41CA_8FF923004191.text = SDG 11
 Label_5DC9764F_4373_456A_41A8_02F876EFE442.text = SDG 13
 Label_5DC0965E_4373_C56A_41A2_5AAB32E47E03.text = SDG 15
 Label_5DBEF87B_4373_CD2A_41AF_33B1DEA22726.text = SDG 2
-Label_5DF77185_4373_5FDE_41C5_1BFE3BFC915C.text = SDG 3
+Label_5CF530C7_4375_3D5A_41D0_8C4A7E241059.text = SDG 3
 Label_637DE0D3_4372_FD7A_41CA_0698ED7A831D.text = SDG 3
+Label_5DF77185_4373_5FDE_41C5_1BFE3BFC915C.text = SDG 3
 Label_5CA63EE6_4372_C55A_41B0_A184D3E0E201.text = SDG 3
 Label_5C5014D9_4373_C576_41CA_7DD767E004AD.text = SDG 4
 Label_5D23BDD2_4373_477A_41BF_15F3A3170E8E.text = SDG 6
@@ -323,10 +335,10 @@ Label_967D02AB_CFE6_1B2C_41C5_D8E91BB62423.text = Use the scroll wheel to zoom i
 Label_F589B148_E90C_325D_41DA_C85BAA730AB8.text = VR Campus Tour
 Label_13E850DD_3DD0_E2F7_41A8_2505B32E97BB.text = {{Title}}
 Label_7F5DA65C_4384_999D_41D0_8DE1152B9C4E.text = {{quiz.questions.answered}} /  {{quiz.score1.score.total}} answered
-Label_2A79F082_3DD7_214D_41CA_9AA365F98D0A.text = 繁中
-Label_70A0F193_4285_7B6B_41A1_321AED292098.text = 繁中
-Label_70A7D194_4285_7B6D_4191_DE8CC2E0FBEE.text = 繁中
 Label_2A79C082_3DD7_214D_41CD_213B39E3C04C.text = 繁中
+Label_70A7D194_4285_7B6D_4191_DE8CC2E0FBEE.text = 繁中
+Label_70A0F193_4285_7B6B_41A1_321AED292098.text = 繁中
+Label_2A79F082_3DD7_214D_41CA_9AA365F98D0A.text = 繁中
 
 ### Multiline Text
 HTMLText_1DCFA721_3A05_DD88_4186_887F3E0800A7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">Agri-Food Education Garden</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">Taiping young farmers, let’s get to work! In our school garden, we plant and harvest to experience the joy of "farm-to-table." Guided by SDG 2 (Zero Hunger), we learn about food security and the importance of valuing our food. By choosing "locally produced seasonal food," we effectively reduce carbon footprints and transport costs, becoming eco-conscious, responsible eaters!</SPAN></SPAN></DIV></div>
@@ -341,8 +353,13 @@ HTMLText_12F3F67A_3A05_BC78_4197_4281DE17DA93.html = <div style="text-align:left
 HTMLText_17753DDC_24A6_D557_416C_54A8BA8903FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">School Gate &amp; Flood-Control Drainage Canal</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">The "Chencuocuo Drainage" at our school gate is our safety hero! By exploring this local flood control system, we embody the spirit of SDG 11 (Sustainable Cities and Communities). We learn how infrastructure quickly drains water during severe weather and extreme storms, and how following disaster evacuation plans builds a safer, climate-resilient community.</SPAN></SPAN></DIV></div>
 HTMLText_12A7A1AC_3A05_7498_41C3_25E5F5C2727C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">Sports Field</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">Our vast playground is more than a sports field; it is a life-saving disaster drill site and a shared community space! Embodying SDG 11 (Sustainable Cities and Communities), we practice earthquake evacuation here, using it as an "emergency assembly point." By opening the field to the community for resource sharing, we make Taiping Elementary a safe, inclusive, and sustainable hub.</SPAN></SPAN></DIV></div>
 HTMLText_1248AF45_3A05_4D88_41C9_708D41902585.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">Taiping Park</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">The park is a natural extension of our learning! At Taiping Park, we observe lush trees and wildlife habitats to practice SDG 15 (Life on Land). Meanwhile, exercising with the park's fitness equipment and walkways promotes SDG 3 (Good Health and Well-being), creating a sustainable and health-conscious community for everyone!</SPAN></SPAN></DIV></div>
+HTMLText_584D02E7_4548_B7BB_41CE_97AA7E61DFA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Clean Water and Sanitation</SPAN></SPAN></DIV></div>
 HTMLText_6083EED5_4408_FEEB_41B9_FA4F4BF474EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Climate Action</SPAN></SPAN></DIV></div>
+HTMLText_59202A20_454B_96B5_41B1_2A4331798048.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Good Health and Well-Being</SPAN></SPAN></DIV></div>
+HTMLText_5859AAF8_4549_9795_41A4_09605E5B9B6A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Life on Land</SPAN></SPAN></DIV></div>
+HTMLText_59BAAB00_454B_9675_41B7_0A67733470FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Quality Education</SPAN></SPAN></DIV></div>
 HTMLText_0594B4FB_438C_9A9B_41D0_5CD0CD2EB653.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Sustainable Cities and Communities</SPAN></SPAN></DIV></div>
+HTMLText_59B6BB2B_454F_F68B_41C4_0FFAF6108FF2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Zero Hunger</SPAN></SPAN></DIV></div>
 
 ### Tooltip
 Container_5DC4A876_4373_CD3A_41CF_B15676AC135E.toolTip = Area Blocked

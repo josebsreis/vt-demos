@@ -170,12 +170,12 @@ audiores_1E6DAEDB_3A57_8963_41BD_E005F9150672.url = media/audio_2DC16420_3A2F_98
 ### Floorplan
 
 ### Image
-imlevel_6DF16586_4407_4369_41B2_06E0681FB224.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_0.avif
-imlevel_6DF14586_4407_4369_41C6_56BCBECB81C4.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_1.avif
-imlevel_6DF13586_4407_4369_4168_CC36F7B8273D.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_2.avif
-imlevel_6DF06597_4407_4297_41CA_29369BB27E14.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_0.avif
-imlevel_6DF05597_4407_4297_41A8_BDBCB2AEFEBD.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_1.avif
-imlevel_6DF03598_4407_4299_41C5_6E2087AE39FB.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_2.avif
+imlevel_5C50CC8B_47E8_67A8_4184_F1AFE8C271B2.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_0.avif
+imlevel_5C50EC8B_47E8_67A8_41CA_86BE4E9E5627.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_1.avif
+imlevel_5C50FC8B_47E8_67A8_41BF_57ADD67E89FE.url = media/map_1205AD55_3A55_8B67_41BF_BDCE68D1B453_en_2.avif
+imlevel_5C50CD7E_47E8_6168_41C4_D779762ABBE9.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_0.avif
+imlevel_5C50FD7E_47E8_6168_41CD_D7D41A873BD9.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_1.avif
+imlevel_5C508D7E_47E8_6168_41AE_A1F69E9CBF91.url = media/map_1E033B52_3DD3_27CD_41CD_154CEAB05F52_en_2.avif
 
 ### Subtitle
 panorama_225AB9A2_3861_2C61_41A8_41B6FA1B6AD0.subtitle = [a10]
@@ -219,7 +219,9 @@ Button_D416779B_C69B_6B24_41DC_BBA5BE82868D.label = 體驗校園文化
 Button_D416D79A_C69B_6B24_41E6_F6A0CB943A7C.label = 360° 與 VR 體驗
 Button_DEA747A1_C69C_EB64_41C0_256A238E3E95.label = 導覽選單
 Button_DEA7D7A1_C69C_EB64_41D7_6B8B6EB536F2.label = 重新開始
+Button_5E81701C_47E9_FEA8_41C2_45065B2753C5.label = 音效
 Button_0516E319_3E51_677F_41C2_CBF4336D7A7E.label = 音效
+Button_5D566FC4_47E8_E198_41CE_2105F7F13A13.label = 音效
 
 ### Image
 Image_0488E9E1_3E51_62CF_41A0_F3CB65254402.url = skin/Image_0488E9E1_3E51_62CF_41A0_F3CB65254402_en.png
@@ -228,7 +230,12 @@ Image_0E829E5E_438C_899D_41C0_3CE2F5F6A2A2.url = skin/Image_0E829E5E_438C_899D_4
 Image_0F5FCA2D_438D_89BF_41B2_4BED7C9BBAAE.url = skin/Image_0F5FCA2D_438D_89BF_41B2_4BED7C9BBAAE_en.png
 Image_151DB4F9_3A5C_792F_41A7_8AC9EDA3297E.url = skin/Image_151DB4F9_3A5C_792F_41A7_8AC9EDA3297E_en.png
 Image_4507565E_355D_C44D_41C0_BADBCC929065.url = skin/Image_4507565E_355D_C44D_41C0_BADBCC929065_en.png
+Image_5807AFB9_454F_8D97_41AA_956275D62404.url = skin/Image_5807AFB9_454F_8D97_41AA_956275D62404_en.png
+Image_580B4B0A_4549_B675_41CB_6BFF550A2656.url = skin/Image_580B4B0A_4549_B675_41CB_6BFF550A2656_en.png
+Image_58147F29_454B_8EB7_41C3_FF8EF22F36B4.url = skin/Image_58147F29_454B_8EB7_41C3_FF8EF22F36B4_en.png
+Image_58569520_4548_92B5_4198_2FFCF038B17D.url = skin/Image_58569520_4548_92B5_4198_2FFCF038B17D_en.png
 Image_586EBB3E_4377_432A_41A4_B16CCE4D050E.url = skin/Image_586EBB3E_4377_432A_41A4_B16CCE4D050E_en.png
+Image_5899A898_4548_9395_41C2_C7F43597139A.url = skin/Image_5899A898_4548_9395_41C2_C7F43597139A_en.png
 Image_5C061779_4372_C336_41CE_07C47A64C3E9.url = skin/Image_5C061779_4372_C336_41CE_07C47A64C3E9_en.png
 Image_5C5014D6_4373_C57A_41C5_3CEDE0D7D648.url = skin/Image_5C5014D6_4373_C57A_41C5_3CEDE0D7D648_en.png
 Image_5C5234D8_4373_C576_41B4_D63FF695D268.url = skin/Image_5C5234D8_4373_C576_41B4_D63FF695D268_en.png
@@ -244,6 +251,8 @@ Image_5CF9E77A_4372_C32A_41CA_4C5A13A5AB1B.url = skin/Image_5CF9E77A_4372_C32A_4
 Image_5CFB60C6_4375_3D5A_41B1_39C0DA5DACE7.url = skin/Image_5CFB60C6_4375_3D5A_41B1_39C0DA5DACE7_en.png
 Image_5CFB677B_4372_C329_41C2_990DC2468E1A.url = skin/Image_5CFB677B_4372_C329_41C2_990DC2468E1A_en.png
 Image_5D29DDD1_4373_4776_41B5_63CCE33A3FC6.url = skin/Image_5D29DDD1_4373_4776_41B5_63CCE33A3FC6_en.png
+Image_5D565FC3_47E8_E198_41CC_057AC42F7FF0.url = skin/Image_5D565FC3_47E8_E198_41CC_057AC42F7FF0_en.png
+Image_5D575FC2_47E8_E198_416E_E1EC66C630CC.url = skin/Image_5D575FC2_47E8_E198_416E_E1EC66C630CC_en.png
 Image_5DB2087A_4373_CD2A_419F_87498DF135F1.url = skin/Image_5DB2087A_4373_CD2A_419F_87498DF135F1_en.png
 Image_5DBD8878_4373_CD36_41CE_1D40725A1637.url = skin/Image_5DBD8878_4373_CD36_41CE_1D40725A1637_en.png
 Image_5DBE4879_4373_CD36_41A2_6EBA03897201.url = skin/Image_5DBE4879_4373_CD36_41A2_6EBA03897201_en.png
@@ -259,6 +268,8 @@ Image_5DDE3402_4373_44DA_41C1_CEC7F984D6D1.url = skin/Image_5DDE3402_4373_44DA_4
 Image_5DF19184_4373_5FDE_41C7_820632BDC78E.url = skin/Image_5DF19184_4373_5FDE_41C7_820632BDC78E_en.png
 Image_5DF70184_4373_5FDE_41A4_3EB2082B5CA9.url = skin/Image_5DF70184_4373_5FDE_41A4_3EB2082B5CA9_en.png
 Image_5DFCC183_4373_5FDA_41BD_E33BFA036FD1.url = skin/Image_5DFCC183_4373_5FDA_41BD_E33BFA036FD1_en.png
+Image_5E812019_47E9_FEA8_4198_18F713A272B0.url = skin/Image_5E812019_47E9_FEA8_4198_18F713A272B0_en.png
+Image_5E8D4004_47E9_FE98_41CC_F9AA24F732DF.url = skin/Image_5E8D4004_47E9_FE98_41CC_F9AA24F732DF_en.png
 Image_637A70CF_4372_FD6A_419A_A9C037028DFB.url = skin/Image_637A70CF_4372_FD6A_419A_A9C037028DFB_en.png
 Image_637E20D0_4372_FD76_41CD_E81F5C4B197B.url = skin/Image_637E20D0_4372_FD76_41CD_E81F5C4B197B_en.png
 Image_637FD0D2_4372_FD7A_41C4_B07189BCC511.url = skin/Image_637FD0D2_4372_FD7A_41C4_B07189BCC511_en.png
@@ -292,24 +303,25 @@ Label_5DF0B185_4373_5FDE_41CE_27F84259650A.text = 場景 1
 Label_967DE2AB_CFE6_1B2C_41BE_A42879556038.text = 按住並拖曳，環顧四周
 Label_05002E66_3AD4_8925_41C1_A8E72388964B.text = 前往下一個區域
 Label_5CFA777C_4372_C32E_41C0_249B33CD26D8.text = 場景 1
-Label_70A1E190_4285_7B65_4155_5FA515104D70.text = EN
-Label_2A799082_3DD7_214D_41B6_9EE5034FFB60.text = EN
-Label_70A0C191_4285_7B67_41A1_AA98147435A4.text = EN
 Label_2A794081_3DD7_214F_418C_72E4F0E93DA6.text = EN
+Label_70A0C191_4285_7B67_41A1_AA98147435A4.text = EN
+Label_2A799082_3DD7_214D_41B6_9EE5034FFB60.text = EN
+Label_70A1E190_4285_7B65_4155_5FA515104D70.text = EN
 Label_5C5134D8_4373_C576_41B1_619A3C7E93C7.text = 場景 1
 Label_D415C79B_C69B_6B24_41E1_5032B2DD263B.text = 探索校園
 Label_637EC0D2_4372_FD7A_41CF_D72A41471665.text = 場景 1
+Label_5D2AAA7C_47E8_2368_419B_0AA9CFCFEFD6.text = Label
 Label_5D2DBDD2_4373_477A_41C1_1D097984CB43.text = 場景 1
 Label_5C9A8EE6_4372_C55A_41C4_6CFB8021B8A8.text = 場景 1
 Label_1202248F_4384_F97B_4199_FAC6D12EF06A.text = 場景 1
-Label_5CF530C7_4375_3D5A_41D0_8C4A7E241059.text = 場景 1
 Label_5CF9877D_4372_C32E_41C7_216AFCCC1B0E.text = 場景 1
 Label_5DDDA403_4373_44DA_41CA_8FF923004191.text = 場景 1
 Label_5DC9764F_4373_456A_41A8_02F876EFE442.text = 場景 1
 Label_5DC0965E_4373_C56A_41A2_5AAB32E47E03.text = 場景 1
 Label_5DBEF87B_4373_CD2A_41AF_33B1DEA22726.text = 場景 1
-Label_5DF77185_4373_5FDE_41C5_1BFE3BFC915C.text = 場景 1
+Label_5CF530C7_4375_3D5A_41D0_8C4A7E241059.text = 場景 1
 Label_637DE0D3_4372_FD7A_41CA_0698ED7A831D.text = 場景 1
+Label_5DF77185_4373_5FDE_41C5_1BFE3BFC915C.text = 場景 1
 Label_5CA63EE6_4372_C55A_41B0_A184D3E0E201.text = 場景 1
 Label_5C5014D9_4373_C576_41CA_7DD767E004AD.text = 場景 1
 Label_5D23BDD2_4373_477A_41BF_15F3A3170E8E.text = 場景 1
@@ -323,10 +335,10 @@ Label_967D02AB_CFE6_1B2C_41C5_D8E91BB62423.text = 滾動滑鼠滾輪可放大或
 Label_F589B148_E90C_325D_41DA_C85BAA730AB8.text = VR 校園導覽
 Label_13E850DD_3DD0_E2F7_41A8_2505B32E97BB.text = {{Title}}
 Label_7F5DA65C_4384_999D_41D0_8DE1152B9C4E.text = {{quiz.questions.answered}} /  {{quiz.score1.score.total}} answered
-Label_2A79F082_3DD7_214D_41CA_9AA365F98D0A.text = 繁中
-Label_70A0F193_4285_7B6B_41A1_321AED292098.text = 繁中
-Label_70A7D194_4285_7B6D_4191_DE8CC2E0FBEE.text = 繁中
 Label_2A79C082_3DD7_214D_41CD_213B39E3C04C.text = 繁中
+Label_70A7D194_4285_7B6D_4191_DE8CC2E0FBEE.text = 繁中
+Label_70A0F193_4285_7B6B_41A1_321AED292098.text = 繁中
+Label_2A79F082_3DD7_214D_41CA_9AA365F98D0A.text = 繁中
 
 ### Multiline Text
 HTMLText_1DCFA721_3A05_DD88_4186_887F3E0800A7.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">食農場域</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">太平小農夫開工囉！在校園菜園裡，我們親手播種與採收，體驗「從產地到餐桌」的樂趣。透過 SDG 2 消除飢餓，我們學習關注糧食安全與珍惜食物；更透過優先選擇「在地生產的季節食物」，有效減少碳足跡與運輸成本，成為愛護地球的食育實踐者！</SPAN></SPAN></DIV></div>
@@ -341,8 +353,13 @@ HTMLText_12F3F67A_3A05_BC78_4197_4281DE17DA93.html = <div style="text-align:left
 HTMLText_17753DDC_24A6_D557_416C_54A8BA8903FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">校門口・大排防洪</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">校門口的「陳厝厝排水」是守護校園的安全英雄！透過認識這套在地防洪系統，我們學習 SDG 11 永續城鄉 的精神——了解公共設施如何在極端氣候與暴雨下快速排水，並透過遵守防災避難引導，共同打造具備氣候韌性且安全的生活環境。</SPAN></SPAN></DIV></div>
 HTMLText_12A7A1AC_3A05_7498_41C3_25E5F5C2727C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">操場</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">廣闊的操場不只是運動場，更是守護生命的防災演練場與社區共享空間！結合 SDG 11 永續城鄉 的精神，我們在這裡練習地震避難與疏散，作為「緊急疏散匯集點」；同時開放社區使用促進「資源共享」，讓太平國小成為安全且包容的永續基地。</SPAN></SPAN></DIV></div>
 HTMLText_1248AF45_3A05_4D88_41C9_708D41902585.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">太平公園</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">公園是校園學習的自然延伸！在太平公園，我們不僅能觀察茂密樹木與生物棲地，落實 SDG 15 陸域生態；更能利用公園內的健身器材與健康步道放鬆身心、勤加運動，實踐 SDG 3 健康與福祉，打造自然永續且全人健康的幸福社區！</SPAN></SPAN></DIV></div>
+HTMLText_584D02E7_4548_B7BB_41CE_97AA7E61DFA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Clean Water and Sanitation</SPAN></SPAN></DIV></div>
 HTMLText_6083EED5_4408_FEEB_41B9_FA4F4BF474EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Climate Action</SPAN></SPAN></DIV></div>
+HTMLText_59202A20_454B_96B5_41B1_2A4331798048.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Good Health and Well-Being</SPAN></SPAN></DIV></div>
+HTMLText_5859AAF8_4549_9795_41A4_09605E5B9B6A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Life on Land</SPAN></SPAN></DIV></div>
+HTMLText_59BAAB00_454B_9675_41B7_0A67733470FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Quality Education</SPAN></SPAN></DIV></div>
 HTMLText_0594B4FB_438C_9A9B_41D0_5CD0CD2EB653.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Sustainable Cities and Communities</SPAN></SPAN></DIV></div>
+HTMLText_59B6BB2B_454F_F68B_41C4_0FFAF6108FF2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Poppins Medium';">Zero Hunger</SPAN></SPAN></DIV></div>
 
 ### Tooltip
 Container_5DC4A876_4373_CD3A_41CF_B15676AC135E.toolTip = Area Blocked
