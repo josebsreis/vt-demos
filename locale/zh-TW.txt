@@ -170,9 +170,9 @@ audiores_1E6DAEDB_3A57_8963_41BD_E005F9150672.url = media/audio_2DC16420_3A2F_98
 ### Floorplan
 
 ### Image
-imlevel_6EF1F005_4901_3E54_41CD_6F238B6FE0F8.url = media/map_77CB1B3D_48F2_DC51_41C6_47D64739BB79_en_0.avif
-imlevel_6EF1D005_4901_3E54_41B7_CDE4038E91F4.url = media/map_77CB1B3D_48F2_DC51_41C6_47D64739BB79_en_1.avif
-imlevel_6EF1C005_4901_3E54_41C1_A6A41252797A.url = media/map_77CB1B3D_48F2_DC51_41C6_47D64739BB79_en_2.avif
+imlevel_648C3459_491E_E6FC_41B6_D9B0D15DC6EC.url = media/map_77CB1B3D_48F2_DC51_41C6_47D64739BB79_en_0.avif
+imlevel_648C7459_491E_E6FC_41CF_B61416959A7A.url = media/map_77CB1B3D_48F2_DC51_41C6_47D64739BB79_en_1.avif
+imlevel_648C6459_491E_E6FC_41CE_8AF8EC440CCD.url = media/map_77CB1B3D_48F2_DC51_41C6_47D64739BB79_en_2.avif
 
 ### Subtitle
 panorama_225AB9A2_3861_2C61_41A8_41B6FA1B6AD0.subtitle = [a10]
@@ -203,8 +203,8 @@ panorama_225A80B0_3861_1C61_41C2_60C7BE0DF402.label = 第六 食農場域
 panorama_225A970C_3861_2421_4182_0AA39A1C43C3.label = 第七 後棟廣場及溫室(溫室植栽與廚餘堆肥)
 panorama_225A7D76_3861_24E1_41AE_F8CE12305F4C.label = 第八 英語國際教室
 panorama_225A637C_3861_3CE1_41AD_C6E224EBC93C.label = 第九 健康中心(健康促進及疾病預防)
-panorama_6F560CE7_4828_E798_41B0_7D6E27CF2D11.label = The Great Banyan Tree 1
-panorama_6FFD2F21_4828_2298_419C_2DCEFE5EF74C.label = The Great Banyan Tree 2
+panorama_6F560CE7_4828_E798_41B0_7D6E27CF2D11.label = 榕亭・大榕樹 1
+panorama_6FFD2F21_4828_2298_419C_2DCEFE5EF74C.label = 榕亭・大榕樹 2
 photo_8F1B63EF_D170_7942_41E4_5434ACE930DC.label = image
 photo_B2E24D08_D170_6ECE_41DE_85FCF7878DDF.label = image (2)
 photo_B6721572_D170_7942_41E8_3D560CAA8604.label = image (4)
@@ -223,10 +223,10 @@ Button_DEA7D7A1_C69C_EB64_41D7_6B8B6EB536F2.label = 重新開始
 Button_79DC5CF4_48B6_B5D7_4151_60CEF7550F5A.label = 重新開始
 Button_5E81701C_47E9_FEA8_41C2_45065B2753C5.label = 音效
 Button_0516E319_3E51_677F_41C2_CBF4336D7A7E.label = 音效
-Button_53545D15_48FD_5F41_41C3_C9FA4DFAD075.label = 導覽選單
-Button_53B46646_48FD_EDC3_41CC_E14677F03B93.label = 導覽選單
-Button_53B4D4E7_48FD_EEC1_41D1_6C04994A3325.label = 導覽選單
-Button_531AF2E8_48FD_EACF_41C9_D408D5B2D91C.label = 導覽選單
+Button_53545D15_48FD_5F41_41C3_C9FA4DFAD075.label = 視角 1
+Button_53B46646_48FD_EDC3_41CC_E14677F03B93.label = 視角 2
+Button_53B4D4E7_48FD_EEC1_41D1_6C04994A3325.label = 視角 3
+Button_531AF2E8_48FD_EACF_41C9_D408D5B2D91C.label = 視角 4
 
 ### Image
 Image_0488E9E1_3E51_62CF_41A0_F3CB65254402.url = skin/Image_0488E9E1_3E51_62CF_41A0_F3CB65254402_en.png
@@ -300,56 +300,56 @@ Image_EE30733F_C2A6_EA11_41D2_AE77AFE402A2.url = skin/Image_EE30733F_C2A6_EA11_4
 Image_F9C00EF2_8442_5CF4_41D2_796726402428.url = skin/Image_F9C00EF2_8442_5CF4_41D2_796726402428_en.png
 
 ### Label
-Label_7E330B93_48B3_5C51_41B2_D05D29547986.text = 1 / 12 scenes
-Label_7CD01500_48B1_D42F_41C2_E0A1788D1523.text = 10 / 12 scenes
-Label_7C0852A8_48B1_CC7F_41B9_5CCE6A09A584.text = 11 / 12 scenes
-Label_7B7A7F18_48B1_F45F_41C6_0BD6B328E4AB.text = 12 / 12 scenes
-Label_7CF6EF2C_48B2_B477_41BB_D7A0AC343D49.text = 2 / 12 scenes
-Label_7C21C0A7_48B2_CC71_41B0_01CAC17C6107.text = 3 / 12 scenes
-Label_7C19BFE7_48B2_F3F1_41C2_06B38DBF6229.text = 4 / 12 scenes
-Label_7C704E64_48B2_D4F7_4199_411461FCDF19.text = 5 / 12 scenes
-Label_7DAC1A67_48B2_BCF1_41D0_584C761E005B.text = 6 / 12 scenes
-Label_7B42F43D_48B1_7451_41CF_DF05A4749498.text = 7 / 12 scenes
-Label_7C8784DB_48B1_55D1_41D1_2C494A2CA07A.text = 8 / 12 scenes
-Label_7CF88582_48B1_B433_41B7_AF4D77D910A2.text = 9 / 12 scenes
-Label_5DB1E87A_4373_CD2A_41B2_2BAC76A5D1BC.text = 場景 1
+Label_7E330B93_48B3_5C51_41B2_D05D29547986.text = 1 / 12 個場景
+Label_7CD01500_48B1_D42F_41C2_E0A1788D1523.text = 10 / 12 個場景
+Label_7C0852A8_48B1_CC7F_41B9_5CCE6A09A584.text = 11 / 12 個場景
+Label_7B7A7F18_48B1_F45F_41C6_0BD6B328E4AB.text = 12 / 12 個場景
+Label_7CF6EF2C_48B2_B477_41BB_D7A0AC343D49.text = 2 / 12 個場景
+Label_7C21C0A7_48B2_CC71_41B0_01CAC17C6107.text = 3 / 12 個場景
+Label_7C19BFE7_48B2_F3F1_41C2_06B38DBF6229.text = 4 / 12 個場景
+Label_7C704E64_48B2_D4F7_4199_411461FCDF19.text = 5 / 12 個場景
+Label_7DAC1A67_48B2_BCF1_41D0_584C761E005B.text = 6 / 12 個場景
+Label_7B42F43D_48B1_7451_41CF_DF05A4749498.text = 7 / 12 個場景
+Label_7C8784DB_48B1_55D1_41D1_2C494A2CA07A.text = 8 / 12 個場景
+Label_7CF88582_48B1_B433_41B7_AF4D77D910A2.text = 9 / 12 個場景
+Label_5DB1E87A_4373_CD2A_41B2_2BAC76A5D1BC.text = 食農場域
 Label_069F6D8D_3ADC_8BE7_4154_237F108D1B3B.text = 返回
-Label_5DBB865D_4373_C56E_41CC_36DED61E1543.text = 場景 1
-Label_5DF0B185_4373_5FDE_41CE_27F84259650A.text = 場景 1
+Label_5DBB865D_4373_C56E_41CC_36DED61E1543.text = 後棟廣場及溫室
+Label_5DF0B185_4373_5FDE_41CE_27F84259650A.text = 籃球場
 Label_967DE2AB_CFE6_1B2C_41BE_A42879556038.text = 按住並拖曳，環顧四周
 Label_05002E66_3AD4_8925_41C1_A8E72388964B.text = 前往下一個區域
-Label_5CFA777C_4372_C32E_41C0_249B33CD26D8.text = 場景 1
+Label_5CFA777C_4372_C32E_41C0_249B33CD26D8.text = 東天宮
 Label_70A0C191_4285_7B67_41A1_AA98147435A4.text = EN
 Label_2A794081_3DD7_214F_418C_72E4F0E93DA6.text = EN
 Label_2A799082_3DD7_214D_41B6_9EE5034FFB60.text = EN
 Label_70A1E190_4285_7B65_4155_5FA515104D70.text = EN
-Label_5C5134D8_4373_C576_41B1_619A3C7E93C7.text = 場景 1
+Label_5C5134D8_4373_C576_41B1_619A3C7E93C7.text = 英語國際教室
 Label_D415C79B_C69B_6B24_41E1_5032B2DD263B.text = 探索校園
-Label_637EC0D2_4372_FD7A_41CF_D72A41471665.text = 場景 1
-Label_5D2DBDD2_4373_477A_41C1_1D097984CB43.text = 場景 1
-Label_5C9A8EE6_4372_C55A_41C4_6CFB8021B8A8.text = 場景 1
-Label_5DDDA403_4373_44DA_41CA_8FF923004191.text = 場景 1
-Label_5CF9877D_4372_C32E_41C7_216AFCCC1B0E.text = 場景 1
-Label_1202248F_4384_F97B_4199_FAC6D12EF06A.text = 場景 1
-Label_5DC9764F_4373_456A_41A8_02F876EFE442.text = 場景 1
-Label_5DC0965E_4373_C56A_41A2_5AAB32E47E03.text = 場景 1
-Label_5DBEF87B_4373_CD2A_41AF_33B1DEA22726.text = 場景 1
-Label_5CF530C7_4375_3D5A_41D0_8C4A7E241059.text = 場景 1
-Label_5DF77185_4373_5FDE_41C5_1BFE3BFC915C.text = 場景 1
-Label_637DE0D3_4372_FD7A_41CA_0698ED7A831D.text = 場景 1
-Label_5CA63EE6_4372_C55A_41B0_A184D3E0E201.text = 場景 1
-Label_5C5014D9_4373_C576_41CA_7DD767E004AD.text = 場景 1
-Label_5D23BDD2_4373_477A_41BF_15F3A3170E8E.text = 場景 1
-Label_758F9A68_3ED1_21DD_418C_9409D0CA2550.text = 場景 1
-Label_5DDEF403_4373_44DA_41CA_CDA47D32E0B8.text = 場景 1
+Label_637EC0D2_4372_FD7A_41CF_D72A41471665.text = 健康中心
+Label_5D2DBDD2_4373_477A_41C1_1D097984CB43.text = 前棟教學大樓・廁所・馬賽克拼貼
+Label_5C9A8EE6_4372_C55A_41C4_6CFB8021B8A8.text = 遊戲場・健康步道
+Label_5DDDA403_4373_44DA_41CA_8FF923004191.text = SDG 11
+Label_5CF9877D_4372_C32E_41C7_216AFCCC1B0E.text = SDG 11
+Label_1202248F_4384_F97B_4199_FAC6D12EF06A.text = SDG 11
+Label_5DC9764F_4373_456A_41A8_02F876EFE442.text = SDG 13
+Label_5DC0965E_4373_C56A_41A2_5AAB32E47E03.text = SDG 15
+Label_5DBEF87B_4373_CD2A_41AF_33B1DEA22726.text = SDG 2
+Label_5CF530C7_4375_3D5A_41D0_8C4A7E241059.text = SDG 3
+Label_5DF77185_4373_5FDE_41C5_1BFE3BFC915C.text = SDG 3
+Label_637DE0D3_4372_FD7A_41CA_0698ED7A831D.text = SDG 3
+Label_5CA63EE6_4372_C55A_41B0_A184D3E0E201.text = SDG 3
+Label_5C5014D9_4373_C576_41CA_7DD767E004AD.text = SDG 4
+Label_5D23BDD2_4373_477A_41BF_15F3A3170E8E.text = SDG 6
+Label_758F9A68_3ED1_21DD_418C_9409D0CA2550.text = 校門口・大排防洪
+Label_5DDEF403_4373_44DA_41CA_CDA47D32E0B8.text = 操場
 Label_F377E41F_E90C_51F3_41EC_B9E33497ACBB.text = 太平國小
-Label_5CF450C7_4375_3D5A_41C7_EC7CD16FFEF8.text = 場景 1
-Label_5DCAB64F_4373_456A_41BA_93FA013E5561.text = 場景 1
+Label_5CF450C7_4375_3D5A_41C7_EC7CD16FFEF8.text = 太平公園
+Label_5DCAB64F_4373_456A_41BA_93FA013E5561.text = 榕亭・大榕樹
 Label_6B6EAC59_3BD4_896F_41C2_9BB6A113183E.text = 解鎖下一個區域
 Label_967D02AB_CFE6_1B2C_41C5_D8E91BB62423.text = 滾動滑鼠滾輪可放大或縮小
 Label_F589B148_E90C_325D_41DA_C85BAA730AB8.text = VR 校園導覽
 Label_13E850DD_3DD0_E2F7_41A8_2505B32E97BB.text = {{Title}}
-Label_7F5DA65C_4384_999D_41D0_8DE1152B9C4E.text = {{quiz.questions.answered}} /  {{quiz.score1.score.total}} answered
+Label_7F5DA65C_4384_999D_41D0_8DE1152B9C4E.text = 已作答 {{quiz.questions.answered}} / {{quiz.score1.score.total}} 題
 Label_70A7D194_4285_7B6D_4191_DE8CC2E0FBEE.text = 繁中
 Label_70A0F193_4285_7B6B_41A1_321AED292098.text = 繁中
 Label_2A79C082_3DD7_214D_41CD_213B39E3C04C.text = 繁中
@@ -368,30 +368,31 @@ HTMLText_12F3F67A_3A05_BC78_4197_4281DE17DA93.html = <div style="text-align:left
 HTMLText_17753DDC_24A6_D557_416C_54A8BA8903FF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">校門口・大排防洪</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">校門口的「陳厝厝排水」是守護校園的安全英雄！透過認識這套在地防洪系統，我們學習 SDG 11 永續城鄉 的精神——了解公共設施如何在極端氣候與暴雨下快速排水，並透過遵守防災避難引導，共同打造具備氣候韌性且安全的生活環境。</SPAN></SPAN></DIV></div>
 HTMLText_12A7A1AC_3A05_7498_41C3_25E5F5C2727C.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">操場</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">廣闊的操場不只是運動場，更是守護生命的防災演練場與社區共享空間！結合 SDG 11 永續城鄉 的精神，我們在這裡練習地震避難與疏散，作為「緊急疏散匯集點」；同時開放社區使用促進「資源共享」，讓太平國小成為安全且包容的永續基地。</SPAN></SPAN></DIV></div>
 HTMLText_1248AF45_3A05_4D88_41C9_708D41902585.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins SemiBold';">太平公園</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:15.999999999999998px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Regular';">公園是校園學習的自然延伸！在太平公園，我們不僅能觀察茂密樹木與生物棲地，落實 SDG 15 陸域生態；更能利用公園內的健身器材與健康步道放鬆身心、勤加運動，實踐 SDG 3 健康與福祉，打造自然永續且全人健康的幸福社區！</SPAN></SPAN></DIV></div>
-HTMLText_584D02E7_4548_B7BB_41CE_97AA7E61DFA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Clean Water and Sanitation</SPAN></SPAN></DIV></div>
-HTMLText_6083EED5_4408_FEEB_41B9_FA4F4BF474EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Climate Action</SPAN></SPAN></DIV></div>
-HTMLText_59202A20_454B_96B5_41B1_2A4331798048.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Good Health and Well-Being</SPAN></SPAN></DIV></div>
-HTMLText_5859AAF8_4549_9795_41A4_09605E5B9B6A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Life on Land</SPAN></SPAN></DIV></div>
-HTMLText_59BAAB00_454B_9675_41B7_0A67733470FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Quality Education</SPAN></SPAN></DIV></div>
-HTMLText_0594B4FB_438C_9A9B_41D0_5CD0CD2EB653.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Sustainable Cities and Communities</SPAN></SPAN></DIV></div>
-HTMLText_59B6BB2B_454F_F68B_41C4_0FFAF6108FF2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">Zero Hunger</SPAN></SPAN></DIV></div>
+HTMLText_584D02E7_4548_B7BB_41CE_97AA7E61DFA6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">潔淨水與衛生</SPAN></SPAN></DIV></div>
+HTMLText_6083EED5_4408_FEEB_41B9_FA4F4BF474EF.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">氣候行動</SPAN></SPAN></DIV></div>
+HTMLText_59202A20_454B_96B5_41B1_2A4331798048.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">良好健康與福祉</SPAN></SPAN></DIV></div>
+HTMLText_5859AAF8_4549_9795_41A4_09605E5B9B6A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">陸域生態</SPAN></SPAN></DIV></div>
+HTMLText_59BAAB00_454B_9675_41B7_0A67733470FA.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">優質教育</SPAN></SPAN></DIV></div>
+HTMLText_0594B4FB_438C_9A9B_41D0_5CD0CD2EB653.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">永續城市與社區</SPAN></SPAN></DIV></div>
+HTMLText_59B6BB2B_454F_F68B_41C4_0FFAF6108FF2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Poppins Medium';">零飢餓</SPAN></SPAN></DIV></div>
 
 ### Tooltip
-Container_DEA797A1_C69C_EB64_41C2_582799688A8E.toolTip = 3D View
-Container_5C96ED98_4373_47F6_41B0_DA34B74300EF.toolTip = Area Blocked
-Container_5DC4A876_4373_CD3A_41CF_B15676AC135E.toolTip = Area Blocked
-Container_5CFC00C3_4375_3D5A_41A8_76266D7D3764.toolTip = Area Blocked
-Container_758F4A68_3ED1_21DD_41C1_9683E1B97DF2.toolTip = Area Blocked
-Container_5DD2964D_4373_456E_41B8_53F123C38BD7.toolTip = Area Blocked
-Container_5DE6F401_4373_44D6_41A0_DF92161785DC.toolTip = Area Blocked
-Container_5DF84181_4373_5FD6_41C0_0269A66EE075.toolTip = Area Blocked
-Container_5C02A777_4372_C33A_41B8_685B2A337D66.toolTip = Area Blocked
-Container_5C59F4D4_4373_C57E_4197_63BFB9CD8D0B.toolTip = Area Blocked
-Container_5DCD565A_4373_C56A_41C7_07B2D1F466E7.toolTip = Area Blocked
-Container_5C80B0CE_4372_FD6A_41C2_4B060BD1ECA1.toolTip = Area Blocked
-Container_5CA32EE2_4372_C55A_41C5_693D1C08E27B.toolTip = Area Blocked
-Container_05162317_3E51_6773_41C8_F023D0E7A1BB.toolTip = Mute / Unmute
-Container_79DEDCF3_48B6_B5D1_41A1_A989F14A46E9.toolTip = Restart Tour
+Container_DEA797A1_C69C_EB64_41C2_582799688A8E.toolTip = 3D 檢視
+Container_5C96ED98_4373_47F6_41B0_DA34B74300EF.toolTip = 區域尚未解鎖
+Container_5DC4A876_4373_CD3A_41CF_B15676AC135E.toolTip = 區域尚未解鎖
+Container_5CFC00C3_4375_3D5A_41A8_76266D7D3764.toolTip = 區域尚未解鎖
+Container_758F4A68_3ED1_21DD_41C1_9683E1B97DF2.toolTip = 區域尚未解鎖
+Container_5DD2964D_4373_456E_41B8_53F123C38BD7.toolTip = 區域尚未解鎖
+Container_5DE6F401_4373_44D6_41A0_DF92161785DC.toolTip = 區域尚未解鎖
+Container_5DF84181_4373_5FD6_41C0_0269A66EE075.toolTip = 區域尚未解鎖
+Container_5C02A777_4372_C33A_41B8_685B2A337D66.toolTip = 區域尚未解鎖
+Container_5C59F4D4_4373_C57E_4197_63BFB9CD8D0B.toolTip = 區域尚未解鎖
+Container_5DCD565A_4373_C56A_41C7_07B2D1F466E7.toolTip = 區域尚未解鎖
+Container_5C80B0CE_4372_FD6A_41C2_4B060BD1ECA1.toolTip = 區域尚未解鎖
+Container_5CA32EE2_4372_C55A_41C5_693D1C08E27B.toolTip = 區域尚未解鎖
+Container_DEA097A2_C69C_EB64_41BC_7D650D54B1C5.toolTip = 點擊展開
+Container_05162317_3E51_6773_41C8_F023D0E7A1BB.toolTip = 靜音 / 取消靜音
+Container_79DEDCF3_48B6_B5D1_41A1_A989F14A46E9.toolTip = 重新開始導覽
 
 ## Tour
 
